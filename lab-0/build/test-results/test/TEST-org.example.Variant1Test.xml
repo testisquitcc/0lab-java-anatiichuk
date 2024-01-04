@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.Variant1Test" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-01-04T09:50:13" hostname="DESKTOP-1URG10D" time="0.018">
+  <properties/>
+  <testcase name="testArray1" classname="org.example.Variant1Test" time="0.004"/>
+  <testcase name="testBoolean1_false" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testBoolean1_true" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testCase1" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testCase2" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testCase3" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testFor1" classname="org.example.Variant1Test" time="0.001"/>
+  <testcase name="testIf1" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testIf2" classname="org.example.Variant1Test" time="0.0"/>
+  <testcase name="testIf3" classname="org.example.Variant1Test" time="0.001"/>
+  <testcase name="testInteger1" classname="org.example.Variant1Test" time="0.001"/>
+  <testcase name="testMatrix1" classname="org.example.Variant1Test" time="0.001"/>
+  <testcase name="testMinMax" classname="org.example.Variant1Test" time="0.001"/>
+  <testcase name="testWhile1" classname="org.example.Variant1Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
